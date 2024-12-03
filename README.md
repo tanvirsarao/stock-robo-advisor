@@ -1,6 +1,6 @@
 # Robo Stock Portfolio Advisor
 
-This is Team 7's submission to the annual CFM 101 Team Competition at the University of Waterloo, achieving 3rd place overall against ~20 other teams.
+This is Team 7's submission to the annual CFM 101 Team Competition at the University of Waterloo, achieving **3rd place overall**!
 
 ## About
 
