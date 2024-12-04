@@ -25,3 +25,5 @@ Our program is a Python-based portfolio optimization tool that uses LSTM neural 
 ## Output
 
 The program will generate `Final_Portfolio.csv`, containing the selected stocks and their optimal weights in the portfolio.
+
+![teamResult](https://github.com/user-attachments/assets/e53a73c8-d94a-402d-b9c9-6ec3c725b343)
